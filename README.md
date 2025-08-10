@@ -40,20 +40,8 @@ cd C:\path\to\EmployeeManagementSystem
 python EmployeeManagementSystemProject.py
 
 4. Follow the menu options:
-![Menu Screenshot](menu.png)
-**************************************
---- Employee Management System Menu---
-**************************************
-1. Add Employee
-2. View All Employees
-3. Search Employee
-4. Update Employee
-5. Delete Employee
-6. Exit
-**************************************
-Choose an option (1-6):
 
-<pre> ``` --- Employee Management System --- 1. Add Employee 2. View Employees 3. Update Employee 4. Delete Employee 5. Exit Enter your choice: ``` </pre>
+![Menu Screenshot](menu.png)
 
 **For example:**
 ----------------
@@ -71,6 +59,7 @@ Employee added successfully!
 - Salary must be a positive number.
 - Name must only contain letters and spaces.
 - Email must be in a valid format (example@domain.com).
+
 
 
 
