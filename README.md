@@ -45,13 +45,7 @@ python EmployeeManagementSystemProject.py
 
 **For example:**
 ----------------
-Choose an option (1-6): 1
-Enter ID: 101
-Enter Name: John Doe
-Enter Position: Developer
-Enter Salary: 5000
-Enter Email: john.doe@example.com
-Employee added successfully!
+![Menu Screenshot](AddEmployee.png)
 
 **Notes**
 - CSV file is stored in the same directory as the script.
@@ -59,6 +53,7 @@ Employee added successfully!
 - Salary must be a positive number.
 - Name must only contain letters and spaces.
 - Email must be in a valid format (example@domain.com).
+
 
 
 
