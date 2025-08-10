@@ -28,10 +28,9 @@ The program will create it automatically on the first run if it does not exist.
 
 ## Running the Program (Windows Command Prompt as Administrator)
 1. Open Command Prompt as Administrator
-
-    *Press Start
-    *Type cmd
-    *Right-click Command Prompt → Run as administrator
+    - Press Start
+    - Type cmd 
+    - Right-click Command Prompt → Run as administrator 
 
 2. Navigate to your project folder
 cd C:\path\to\EmployeeManagementSystem
@@ -53,6 +52,7 @@ python EmployeeManagementSystemProject.py
 - Salary must be a positive number.
 - Name must only contain letters and spaces.
 - Email must be in a valid format (example@domain.com).
+
 
 
 
