@@ -40,6 +40,7 @@ cd C:\path\to\EmployeeManagementSystem
 python EmployeeManagementSystemProject.py
 
 4. Follow the menu options:
+![Menu Screenshot](menu.png)
 **************************************
 --- Employee Management System Menu---
 **************************************
@@ -70,5 +71,6 @@ Employee added successfully!
 - Salary must be a positive number.
 - Name must only contain letters and spaces.
 - Email must be in a valid format (example@domain.com).
+
 
 
