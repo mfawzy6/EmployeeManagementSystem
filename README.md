@@ -52,6 +52,8 @@ python EmployeeManagementSystemProject.py
 **************************************
 Choose an option (1-6):
 
+<pre> ``` --- Employee Management System --- 1. Add Employee 2. View Employees 3. Update Employee 4. Delete Employee 5. Exit Enter your choice: ``` </pre>
+
 **For example:**
 ----------------
 Choose an option (1-6): 1
@@ -68,4 +70,5 @@ Employee added successfully!
 - Salary must be a positive number.
 - Name must only contain letters and spaces.
 - Email must be in a valid format (example@domain.com).
+
 
